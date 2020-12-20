@@ -11,4 +11,7 @@ There is 2 scale; focusing ratio and relaxing ratio. So there is 2 list. Focus L
 
 To start scaling with each song I've used an timer.
 
+![müzikçalar1](https://user-images.githubusercontent.com/41302444/102713116-d9d54780-42d6-11eb-9cdd-df95d8c8072b.png)
+
+
 I hope you enjoy!
