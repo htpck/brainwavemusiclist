@@ -13,5 +13,7 @@ To start scaling with each song I've used an timer.
 
 ![müzikçalar1](https://user-images.githubusercontent.com/41302444/102713116-d9d54780-42d6-11eb-9cdd-df95d8c8072b.png)
 
+![MüzikÇalar2](https://user-images.githubusercontent.com/41302444/102713130-f1accb80-42d6-11eb-84c0-876c2395b244.png)
+
 
 I hope you enjoy!
